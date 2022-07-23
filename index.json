@@ -1,0 +1,21 @@
+[
+    {
+        "usuario":"luis",
+        "contraseña":"123456789a",
+        "Nombre":"luis",
+        "Apellido":"vv",
+        "Tipo_de_usuario":"Admin",
+        "Correo":"ljdeluque@itsa.edu.co",
+        "Cedula":"1002027747",
+        "Celular":"3046445940"
+    },{
+        "usuario":"Brayner",
+        "contraseña":"123456789c",
+        "Nombre":"Brayner",
+        "Apellido":"Perez",
+        "Tipo_de_usuario":"Empleado",
+        "Correo":"braynerdperez@itsa.edu.co",
+        "Cedula":"105264120",
+        "Celular":"3000548204"
+    }
+]
